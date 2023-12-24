@@ -1,5 +1,5 @@
 # transport--app-react
-React application for transport application
+React application for transport application, here the project is at initial stage I designed just to learn react framework. 
 
 # figma reference links
 
@@ -11,4 +11,4 @@ React application for transport application
 
 4) https://www.freepik.com/premium-vector/joint-travel-service-illustration-carpool-concept_5124775.htm#query=book%20cab%20share&position=26&from_view=search&track=ais
 
-5) Inspired by FlixBus, DB Navigator, Bla Bla car
+5) 
